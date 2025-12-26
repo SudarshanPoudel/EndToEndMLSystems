@@ -14,6 +14,7 @@ Below are the corresponding Medium posts that this repository supports:
 
 1. [End-to-End AI Systems #1: Serving A Machine Learning Model with FastAPI, uv, and Docker](https://medium.com/@sudarshanpoudel/end-to-end-ml-systems-1-serving-a-machine-learning-model-with-fastapi-uv-and-docker-61bc1032d53b)
 
+2. [End-to-End AI Systems #2: Kafka — The Backbone of Scalable AI Pipelines](https://medium.com/@sudarshanpoudel/end-to-end-ai-systems-2-kafka-the-backbone-of-scalable-ml-data-pipelines-8a3dc3864a6a?postPublishedType=initial)
 ---
 
 ## Repository Structure
